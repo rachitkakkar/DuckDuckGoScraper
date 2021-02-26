@@ -1,5 +1,5 @@
 # DuckDuckGoScraper
-A simple python file to scrape DuckDuckGo Search Results using beatiful soup and selenium.
+A simple python file to scrape DuckDuckGo Search Results using BeautifulSoup and Selenium.
 
 # Requirements
 Python 3.9.1, dependencies listed in requirements.txt
